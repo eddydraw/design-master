@@ -3,7 +3,7 @@
     "react": "^17.0.1"
   },
   "name": "nextcoms",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "nextjs components",
   "main": "index.js",
   "devDependencies": {
