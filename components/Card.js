@@ -3,7 +3,6 @@ import React from "react"
 import Image from "../Image/Image"
 import Heading from "../Heading/Heading"
 import Paragraph from "../Paragraph/Paragraph"
-import "./Card.css"
 
 /**
  * @author Eddy van Haastert
